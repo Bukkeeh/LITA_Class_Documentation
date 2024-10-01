@@ -69,6 +69,7 @@ The Two (2) Systems Every Organizations Run:
 ---
 
 
+![Pivot Table Chart](https://github.com/user-attachments/assets/c8fbdd4c-4528-4f53-9f37-e40747450155)
 
 
 - Microsoft Excel [Download Here](https://www.microsft.com) 
