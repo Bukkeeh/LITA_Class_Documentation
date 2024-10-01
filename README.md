@@ -24,14 +24,37 @@ The Two (2) Systems Every Organizations Run:
   i.e. SAP, Oracle and Zoom is an operational system. 
 - Analytic System: They are the systems the organization uses to evaluate business processes.
  i.e. Self service BI tools like Power BI
-   
-  
-
 
 ### Data Sources
 The primary source of data used here is Data 
 
-### Tools Used
+### Tools Used for Cleaning Data
+- Open Refine
+- Melissa
+- IBM
+- SAS
+- Power Query
+- Win Pure
+- Tri Facta
+
+### Data Analysis:is getting insights from date. i.e. turning raw data into actionable insights
+- **Ingestion** is the process to get data from the web to Power BI
+- **Transformation** is the process of changing a particular column i.e. changing from a whole no to decimal point.
+- **Modelling** is the prcess of having a number of tables to connect.
+- **Visualization** is the process of building out chart.
+- **Analysis** is the process of employing or deploying some statitical measures or techniques.
+ 
+### Why do we Run Data Analysis:
+- To know what is working.
+- What is not working.
+- What we should focus on.
+
+### Data Base is Storage
+
+### Data Analysis 
+
+
+  
 - Microsoft Excel [Download Here](https://www.microsft.com) 
     1. For Data Cleaning
     2. For Analysis
