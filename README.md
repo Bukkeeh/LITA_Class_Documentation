@@ -2,10 +2,20 @@
 
 ### This where I documented my first project while learning Data Analysis with the Incubator Hub
 
-### Project Overview
+### Basics of Data Analysis 
+- Foundations of Data
+- Introduction to Ms Excel
+- Basic Excel Functions
+- Reports & Dashboard in Excel
+- Project/Challenge
+
+### Data Literacy 
+It is how we source or percieve data and some of the difference that our data can be on for us to do certain things, 
+
+### Data System
 
 ### Data Sources
-The prriamry source of data used here is Data 
+The primary source of data used here is Data 
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsft.com) 
@@ -15,3 +25,10 @@ The prriamry source of data used here is Data
        
 - SQL - Structured Query Lanaguage for Querying of Data
 - GitHub for Portflio Building 
+
+### Data Cleaning and Preparations
+
+### Exploratory Data Analysis 
+
+### Data Analysis
+This is where we include some basic lines of code or queries.
