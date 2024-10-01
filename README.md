@@ -25,9 +25,13 @@ The Two (2) Systems Every Organizations Run:
 - Analytic System: They are the systems the organization uses to evaluate business processes.
  i.e. Self service BI tools like Power BI
 
-### Data Sources
-The primary source of data used here is Data 
+### Data Storage 
+- MS Excel: is used to store, manage and analyse data. 
 
+### Rolls and Columns we have in Excel 
+- Rolls   - 1,048,578
+- Columns - 16,384
+  
 ### Tools Used for Cleaning Data
 - Open Refine
 - Melissa
@@ -37,7 +41,8 @@ The primary source of data used here is Data
 - Win Pure
 - Tri Facta
 
-### Data Analysis:is getting insights from date. i.e. turning raw data into actionable insights
+### Data Analysis:is getting insights from data. i.e. turning raw data into actionable insights
+
 - **Ingestion** is the process to get data from the web to Power BI
 - **Transformation** is the process of changing a particular column i.e. changing from a whole no to decimal point.
 - **Modelling** is the prcess of having a number of tables to connect.
