@@ -41,8 +41,8 @@ The Two (2) Systems Every Organizations Run:
 - Win Pure
 - Tri Facta
 
-### Data Analysis:is getting insights from data. i.e. turning raw data into actionable insights
-
+### Data Analysis: is getting insights from data. i.e. turning raw data into actionable insights
+    
 - **Ingestion** is the process to get data from the web to Power BI
 - **Transformation** is the process of changing a particular column i.e. changing from a whole no to decimal point.
 - **Modelling** is the prcess of having a number of tables to connect.
@@ -54,9 +54,7 @@ The Two (2) Systems Every Organizations Run:
 - What is not working.
 - What we should focus on.
 
-### Data Base is Storage
-
-### Data Analysis 
+### Microsoft Excel Functions 
 
 
   
