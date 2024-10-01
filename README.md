@@ -18,8 +18,15 @@ or before we are able to make meanings out of that data set.
 - statistics   
 - Data Driven Decision Making
   
-
 ### Data System
+The Two (2) Systems Every Organizations Run:
+- Operational System:They are the systems the organization uses to execute their business processes
+  i.e. SAP, Oracle and Zoom is an operational system. 
+- Analytic System: They are the systems the organization uses to evaluate business processes.
+ i.e. Self service BI tools like Power BI
+   
+  
+
 
 ### Data Sources
 The primary source of data used here is Data 
