@@ -10,7 +10,14 @@
 - Project/Challenge
 
 ### Data Literacy 
-It is how we source or percieve data and some of the difference that our data can be on for us to do certain things, 
+It is how we should percieve data and some of the difference that our data can be on for us to do certain things
+or before we are able to make meanings out of that data set.
+- Data Generation
+- Data Structure
+- Data Storage
+- statistics   
+- Data Driven Decision Making
+  
 
 ### Data System
 
