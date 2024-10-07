@@ -18,10 +18,26 @@ The primary source of data is LITA Incubator Hub and Data Sale.CSV, this is an o
     3. For Data Visualization
 - SQL - Structured Query Lanaguage for Querying of Data
 - GitHub for Portflio Building
-- Power BI - for Data Manipulation and Visualisation 
+- Power BI - for Data Manipulation and Visualisation
 
-### DATA CLEANING AND PREPARATION 
+### Microsoft Excel Functions 
 ---
+The following functions was carried out in MS Excel:
+- Formulars and fucntions such as 
+
+### STRUCTURED QUERY LANGUAGE - (SQL)
+---
+SQL is used for storing and managing data data in Relational Database Management System (RDBMS). However, it allows users to query the database in a number of ways, using English-like statements.
+
+This is where we include some basic lines of code or queries or even some of the DAX expressions 
+- SELECT statements for data retrieval
+- FORM and JOIN clauses for combining data
+- WHERE and HAVING for filtering data
+- GROUP BY and ORDER BY data aggregation
+
+Some SQL command includes:
+- CREATE
+- INSERT 
 
 ### Rolls and Columns we have in Excel 
 ---
@@ -30,8 +46,7 @@ The primary source of data is LITA Incubator Hub and Data Sale.CSV, this is an o
 ---
 
 
-### Microsoft Excel Functions 
----
+
 
 
 ### Data Visualization 
