@@ -37,7 +37,6 @@ SQL is used for storing and managing data data in Relational Database Management
 - TCL - Transaction Control Language
 - DQL - Data Query Language
   
-
 ![SQL Command Types](https://github.com/user-attachments/assets/921fa0c2-4b10-4567-a7cd-08af6f8e83be)
 
 ### SQL - Data Types 
@@ -47,6 +46,14 @@ SQL is used for storing and managing data data in Relational Database Management
 
 ![image](https://github.com/user-attachments/assets/9e695d9e-45d0-4fdf-879c-3a1a2276066f)
 
+### SQL - Keys
+---
+In SQL, Keys are special fields in a table that help:
+✓ Create relationships between tables,
+✓ Maintain uniqueness 
+✓ Ensure data is consistent and valid
+
+![SQL KEYS](https://github.com/user-attachments/assets/3b24619f-8b5d-4ff7-b51c-38592543adee)
 
 
 LINES OF CODES
