@@ -23,7 +23,22 @@ The primary source of data is LITA Incubator Hub and Data Sale.CSV, this is an o
 ### Microsoft Excel Functions 
 ---
 The following functions was carried out in MS Excel:
-- Formulars and fucntions such as 
+- Formulars and fucntions such as
+
+
+### Tools Used for Cleaning Data
+---
+
+
+### Data Visualization 
+---
+
+
+### Data Cleaning and Preparations
+
+### Exploratory Data Analysis 
+
+### Data Analysis
 
 ### STRUCTURED QUERY LANGUAGE - (SQL)
 ---
@@ -46,7 +61,7 @@ SQL is used for storing and managing data data in Relational Database Management
 
 ![image](https://github.com/user-attachments/assets/9e695d9e-45d0-4fdf-879c-3a1a2276066f)
 
-### SQL - Keys
+### SQL - KEYS
 ---
 In SQL, Keys are special fields in a table that help:
 ✓ Create relationships between tables,
@@ -57,35 +72,25 @@ In SQL, Keys are special fields in a table that help:
 
 ![SQL KEYS](https://github.com/user-attachments/assets/87be581b-97b2-4135-8f6d-c86207255931)
 
-LINES OF CODES
-This is where we include some basic lines of code or queries or even some of the DAX expressions 
+### SQL - CLAUSES
+This is where we include some basic lines of code or queries.
 - SELECT statements for data retrieval
 - FORM and JOIN clauses for combining data
 - WHERE and HAVING for filtering data
 - GROUP BY and ORDER BY data aggregation
 
+ ### SQL - AGGREGATE
+---
+
+ ### SQL - JOINS
+---
+ ### SQL - SET OPERATIONS
+---
+ ### VIEW IN SQL
+---
+ ### SQL CASE WHEN 
+ ---
  
 
-### Rolls and Columns we have in Excel 
----
   
-### Tools Used for Cleaning Data
----
 
-
-
-
-
-### Data Visualization 
----
-
-
-
-
-
-### Data Cleaning and Preparations
-
-### Exploratory Data Analysis 
-
-### Data Analysis
-This is where we include some basic lines of code or queries.
