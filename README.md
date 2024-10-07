@@ -29,7 +29,8 @@ The following functions was carried out in MS Excel:
 ---
 SQL is used for storing and managing data data in Relational Database Management System (RDBMS). However, it allows users to query the database in a number of ways, using English-like statements.
 
-SQL Command includes:
+### SQL Command includes:
+---
 - DDL - Data Definition Language
 - DML - Data Manipulation Language
 - DCL - Data Control Language
@@ -37,21 +38,25 @@ SQL Command includes:
 - DQL - Data Query Language
   
 
-![SQL Command Types](https://github.com/user-attachments/assets/8470c090-ee3f-41a4-b218-d7acfd115bf1)
+![SQL Command Types](https://github.com/user-attachments/assets/921fa0c2-4b10-4567-a7cd-08af6f8e83be)
+
+### SQL - Data Types 
+---
+✓ SQL Datatype is used to define the values that a column can contain.
+✓ Every column is required to have a name and data type in the database table
+
+![image](https://github.com/user-attachments/assets/9e695d9e-45d0-4fdf-879c-3a1a2276066f)
 
 
 
-
- 
+LINES OF CODES
 This is where we include some basic lines of code or queries or even some of the DAX expressions 
 - SELECT statements for data retrieval
 - FORM and JOIN clauses for combining data
 - WHERE and HAVING for filtering data
 - GROUP BY and ORDER BY data aggregation
 
-Some SQL command includes:
-- CREATE
-- INSERT 
+ 
 
 ### Rolls and Columns we have in Excel 
 ---
