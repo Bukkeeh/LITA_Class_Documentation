@@ -1,10 +1,10 @@
-# LITA_Class_Documentation
+### LITA_Class_Documentation
 
 ### PROJECT TITLE - MS EXCEL FUNCTIONS AND SEQUEL QUERY LANGUAGE (SQL)
 
 ### PROJECT OVERVIEW
 ---
-This Data Analysis aim is to explain how we should perceive data and some of the difference that our data can be on for us to do certain things or before we are able to make meanings out of the data set, however the overall aim of this is to have a detailed understanding of Data Analysis which comprises of Data Entry, Data Cleaning, Structuring of Data, Analysing Data and Data Visulaization.
+This data analysis aim is to explain how we should perceive data and some of the difference that our data can be on for us to do certain things or before we are able to make meanings out of the data set, however the overall aim of this is to have a detailed understanding of Data Analysis which comprises of Data Literacy, Operational Systems, Analytic System, Data Storage Data Entry, Data Cleaning, Structuring of Data, Analysing Data and Data Visulaization.
 
 ### DATA SOURCES 
 ---
