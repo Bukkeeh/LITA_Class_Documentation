@@ -4,17 +4,13 @@
 
 ### PROJECT OVERVIEW
 ---
-This Data Analysis aims is to explain how we should perceive data and some of the difference that our data can be on for us to do certain things or before we are able to make meanings out of the data set, however analysing the various parameters in the data received, we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
+This Data Analysis aim is to explain how we should perceive data and some of the difference that our data can be on for us to do certain things or before we are able to make meanings out of the data set, however the overall aim of this is to have a detailed understanding of Data Analysis which comprises of Data Entry, Data Cleaning, Structuring of Data, Analysing Data and Data Visulaization.
 
 ### DATA SOURCES 
 ---
-It is how we should percieve data and some of the difference that our data can be on for us to do certain things
-or before we are able to make meanings out of that data set.
-- Data Generation
-- Data Structure
-- Data Storage
-- statistics   
-- Data Driven Decision Making
+The primary source of data is LITA Incubator Hub and Data Sale.CSV, this is an open source that can be frely downloaded from an open source online such as Kaggle or Fred or any other repository site.
+
+ 
   
 ### TOOL USED
 ---
