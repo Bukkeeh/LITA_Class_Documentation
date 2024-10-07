@@ -35,9 +35,12 @@ SQL Command includes:
 - DCL - Data Control Language
 - TCL - Transaction Control Language
 - DQL - Data Query Language
-
-  https://github.com/Bukkeeh/LITA_Class_Documentation/blob/d023a2e82b14df842a46ac91db95ecab09fa4a6f/SQL%20COMMAND%20TYPES.pdf
   
+
+![SQL Command Types](https://github.com/user-attachments/assets/8470c090-ee3f-41a4-b218-d7acfd115bf1)
+
+
+
 
  
 This is where we include some basic lines of code or queries or even some of the DAX expressions 
