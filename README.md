@@ -29,6 +29,14 @@ The following functions was carried out in MS Excel:
 ---
 SQL is used for storing and managing data data in Relational Database Management System (RDBMS). However, it allows users to query the database in a number of ways, using English-like statements.
 
+SQL command includes:
+- DDL - Data Definition Language
+- DML - Data Manipulation Language
+- DCL - Data Control Language
+- TCL - Transaction Control Language
+- DQL - Data Query Language
+
+ 
 This is where we include some basic lines of code or queries or even some of the DAX expressions 
 - SELECT statements for data retrieval
 - FORM and JOIN clauses for combining data
