@@ -55,6 +55,7 @@ In SQL, Keys are special fields in a table that help:
 
 ![SQL KEYS](https://github.com/user-attachments/assets/3b24619f-8b5d-4ff7-b51c-38592543adee)
 
+![SQL KEYS](https://github.com/user-attachments/assets/87be581b-97b2-4135-8f6d-c86207255931)
 
 LINES OF CODES
 This is where we include some basic lines of code or queries or even some of the DAX expressions 
