@@ -1,6 +1,6 @@
 # LITA_Class_Documentation
 
-### PROJECT TITLE - MS EXCEL FUNCTIONS AND SEQUEL QUERY LANGUAGE
+### PROJECT TITLE - MS EXCEL FUNCTIONS AND SEQUEL QUERY LANGUAGE (SQL)
 
 ### PROJECT OVERVIEW
 ---
@@ -10,11 +10,15 @@ This Data Analysis aim is to explain how we should perceive data and some of the
 ---
 The primary source of data is LITA Incubator Hub and Data Sale.CSV, this is an open source that can be frely downloaded from an open source online such as Kaggle or Fred or any other repository site.
 
- 
-  
 ### TOOL USED
 ---
-
+- Microsoft Excel [Download Here](https://www.microsft.com) 
+    1. For Data Cleaning
+    2. For Analysis
+    3. For Data Visualization
+- SQL - Structured Query Lanaguage for Querying of Data
+- GitHub for Portflio Building
+- Power BI - for Data Manipulation and Visualisation 
 
 ### DATA CLEANING AND PREPARATION 
 ---
@@ -35,13 +39,7 @@ The primary source of data is LITA Incubator Hub and Data Sale.CSV, this is an o
 
 
 
-- Microsoft Excel [Download Here](https://www.microsft.com) 
-    1. For Data Cleaning
-    2. For Analysis
-    3. For Data Visualization
-       
-- SQL - Structured Query Lanaguage for Querying of Data
-- GitHub for Portflio Building 
+
 
 ### Data Cleaning and Preparations
 
