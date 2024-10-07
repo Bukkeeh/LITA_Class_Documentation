@@ -36,6 +36,7 @@ SQL Command includes:
 - TCL - Transaction Control Language
 - DQL - Data Query Language
 
+  https://github.com/Bukkeeh/LITA_Class_Documentation/blob/d023a2e82b14df842a46ac91db95ecab09fa4a6f/SQL%20COMMAND%20TYPES.pdf
   
 
  
