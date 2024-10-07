@@ -1,10 +1,10 @@
 # LITA_Class_Documentation
 
-### COURSE - DATA ANALYSIS
+### PROJECT TITLE - MS EXCEL FUNCTIONS AND SEQUEL QUERY LANGUAGE
 
 ### PROJECT OVERVIEW
 ---
-
+This Data Analysis aims is to explain how we should perceive data and some of the difference that our data can be on for us to do certain things or before we are able to make meanings out of the data set, however analysing the various parameters in the data received, we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
 
 ### DATA SOURCES 
 ---
