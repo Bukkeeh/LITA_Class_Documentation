@@ -88,16 +88,6 @@ In SQL, Keys are special fields in a table that help:
 
 ![SQL KEYS](https://github.com/user-attachments/assets/87be581b-97b2-4135-8f6d-c86207255931)
 
-### SQL - CLAUSES
-This is where we include some basic lines of code or queries.
-- SELECT statements for data retrieval
-- FORM and JOIN clauses for combining data
-- WHERE and HAVING for filtering data
-- GROUP BY and ORDER BY data aggregation
-
- ### SQL - AGGREGATE
----
-
  ### SQL - JOINS
 ---
  ### SQL - SET OPERATIONS
