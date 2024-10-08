@@ -22,6 +22,12 @@ The primary source of data is LITA Incubator Hub and Data Sale.CSV, this is an o
 
 ### Tools Used for Cleaning Data
 ---
+- Open Refine
+- Mellisa
+- IBM
+- SAS
+- Power Query
+- Tri facta
 
 ### Data Cleaning and Preparations
 ---
