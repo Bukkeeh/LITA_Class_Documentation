@@ -32,13 +32,17 @@ The following functions was carried out in MS Excel:
 
 ### Data Visualization 
 ---
+![Pivot Table](https://github.com/user-attachments/assets/1a4df785-8154-4505-bec5-1cc0f98f9e79)
 
 
 ### Data Cleaning and Preparations
+---
 
 ### Exploratory Data Analysis 
+---
 
 ### Data Analysis
+---
 
 ### STRUCTURED QUERY LANGUAGE - (SQL)
 ---
